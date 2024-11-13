@@ -13,7 +13,7 @@ This repository contains Python scripts for managing files on an SFTP server usi
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/sftp-file-management.git
+   git https://github.com/ShahMehraj/SSH-File-Transfer-Protocol.git
    cd sftp-file-management
    ```
 
